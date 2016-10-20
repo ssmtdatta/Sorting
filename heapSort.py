@@ -2,7 +2,6 @@ import math
 
 
 unsorted_arr = [9, 12, 6, 13, 25, 4, 15, 7, 1, 3, 19]
-sorted_arr = []
 
 def createHeaps(arr):
 
